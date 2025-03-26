@@ -1,0 +1,48 @@
+body{
+    justify-items: center;
+    align-items: center;
+}
+.container{
+    background-color: gray;
+    max-width: 800px;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 8px;
+    color: black;
+}
+h1{
+    font-size: 50px;
+    padding-top: 20px;  /* set padding at the top */
+}
+h4{
+    font-size: 35px;
+}
+p{
+    font-size: 25px;    /* set all paragraph font size */
+}
+input{
+    height: 40px;
+    width: 280px;
+    border-radius: 4px;
+    font-size: 20px;
+    border: 2px solid;
+}
+input::placeholder {
+    font-size: 20px;  /* Adjust the font size to your preference */
+    color: black;
+  }
+button{
+    height: 40px;
+    border-radius: 4px;
+    font-size: 25px;
+    border: 2px solid;
+    margin-top: 20px;    /* Set the top margin */
+    margin-bottom: 20px; /* Set the bottom margin */
+}
+#weight-guide{
+    padding-bottom: 20px;
+}
+#result{
+    color: white;
+    font-size: 35px;
+}
