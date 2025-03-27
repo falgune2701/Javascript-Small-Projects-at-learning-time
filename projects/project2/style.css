@@ -42,7 +42,7 @@ button{
 #weight-guide{
     padding-bottom: 20px;
 }
-#result{
+#result , #user-sms{
     color: white;
     font-size: 35px;
 }
