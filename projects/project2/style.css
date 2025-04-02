@@ -1,6 +1,7 @@
 body{
     justify-items: center;
     align-items: center;
+    background-color: #212121;
 }
 .container{
     background-color: gray;

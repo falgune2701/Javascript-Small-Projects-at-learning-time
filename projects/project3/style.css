@@ -1,0 +1,22 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+h2{
+    font-size: 35px;
+}
+#center{
+    justify-content: center;
+    align-items: center;
+    height: 1000vh;
+    display: flex;
+    flex-direction: column;
+}
+#clock
+{
+    font-size: 40px;
+    border-radius: 10px;
+    background-color: orange;
+    padding: 20px 50px;
+    margin-top: 10px;
+}
